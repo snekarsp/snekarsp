@@ -31,9 +31,6 @@
 - Coursera – Data Analysis with Python  
 - Microsoft Learn – Introduction to Git  
 - HackerRank – Java (Gold Badge)
-  
-## 📊 GitHub Stats
-![Sneka's GitHub stats](https://github-readme-stats.vercel.app/api?username=snekarsp&show_icons=true&theme=radical)
 
 ## 📬 Contact
 - 📧 Email: snekarsp@gmail.com  
